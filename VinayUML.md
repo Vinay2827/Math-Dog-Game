@@ -1,6 +1,6 @@
 | Date  | Progress |
 | ------------- | ------------- |
-| 06/03/2023 | Compeleted Use Case for Subtracting practice for beginners and also squence UML <br> Check below for Updates|
+| 06/03/2023 | Compeleted Use Case for Subtracting practice for beginners and also squence UML <br> Check below for Updates and working on scenerio to store data in azure app service|
 | 27/02/2023 |  Completed Use case UML for the all functionalities with self-call <br> Check below for updates  |
 | 20/02/2023  |  	Completed Screen 1 and Screen 2 sequence uml and added necessary objects and buttons <br> Please check the below added image for detailed progress |
 | 13/02/2023  | Started with Sequence UML diagram of opening screen and also parallelly working on Use Case UML <br> Also added the diagram for your overview below|
